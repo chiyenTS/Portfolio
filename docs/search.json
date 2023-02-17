@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chi Yen Tseng",
+    "section": "",
+    "text": "A multidisciplinary toxicologist with expertise in bioinformatics, chemistry, wildlife, and science communication. Love camping, hiking, cooking, and spending time with my family."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chi Yen Tseng",
+    "section": "Education",
+    "text": "Education\nBaylor University | Waco, TX Ph.D in Environmental Science, The Institute of Ecological, Earth, and Environmental Sciences (TIE3S) | 2014 - completed by May 2023\nUniversity of Georgia | Athens, GA M.S. in Toxicology | 2011 - 2013\nTaiwan University | Taipei, Taiwan | B.S. in Agricultural Chemistry | 2004 - 2008"
+  },
+  {
+    "objectID": "index.html#technical-expertise",
+    "href": "index.html#technical-expertise",
+    "title": "Chi Yen Tseng",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\n\n\n\nToxicology & Wildlife toxicology\nMolecular Biology\nProject management (Budget & Timeline) \n\n\n\nOmics & Bioinformatics\nData Analysis & Statistic learning\nScience communication & Data visualization"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Chi Yen Tseng",
+    "section": "Skills",
+    "text": "Skills\n\nWet Lab skills\n\nmolecular biology techniques, e.g., cell culture, PCR, DNA & RNA extraction, western blot, flow cytometry\nFish embryo and early life-stage toxicity testing\n5+ years of working with animal models, including tissue cultures and animal handling (mouse, fathead minnow, and killifish\n5+ years of managing project budgets, purchasing, and safety compliance Data Skills Data analysis\n\n\n\nData skills\n\nAdept in the use of R, RStudio, and HPC for data cleaning, reformatting, integration, analysis, and visualization\nExpertise in analyzing large datasets\nDeveloping statistical methods, tools, and workflow and Machine learning\nMachine Learning (e.g., Caret, randomForest, etc.)\nOmics analysis with Nest Generation Sequencing (NGS) and transcriptomic proficiency"
+  },
+  {
+    "objectID": "index.html#core-projects",
+    "href": "index.html#core-projects",
+    "title": "Chi Yen Tseng",
+    "section": "Core Projects",
+    "text": "Core Projects\n\nMulti-omics responses in tree swallow (Tachycineta bicolor) nestlings from the Maumee Area of Concern, Maumee River, Ohio\nIntegrated analysis and modeling of contaminant mixtures and transcriptomic responses in Tree Swallow (Tachycineta bicolor) nestlings in the Great Lakes\nComparison of Predictive Models for Monitoring Contamination in Tree Swallow Nestlings Using Non-targeted Global Gene Expression, Targeted Gene Panels, and Bioindicators in the Great Lakes Region."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Research",
+    "section": "",
+    "text": "Chi Yen Tseng1, Christine M. Custer2, Thomas W. Custer2, Paul M. Dummer2, Natalie Karouna‐Renier3 and Cole W. Matson1\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."
+  },
+  {
+    "objectID": "about.html#part-i-exploring-the-connections-between-land-use-contamination-profiles-and-omics-signals-on-a-regional-scale-maumee-river-oh",
+    "href": "about.html#part-i-exploring-the-connections-between-land-use-contamination-profiles-and-omics-signals-on-a-regional-scale-maumee-river-oh",
+    "title": "My Research",
+    "section": "Part I: Exploring the Connections between Land-Use, Contamination Profiles, and Omics Signals on a Regional Scale: Maumee River, OH",
+    "text": "Part I: Exploring the Connections between Land-Use, Contamination Profiles, and Omics Signals on a Regional Scale: Maumee River, OH\n\n\n\n\n DOI: 10.1016/j.scitotenv.2022.159130\nFULL TEXT\n\n\n\n\n\n\n\nMulti-omics approach used to evaluate chemical risks in the Maumee AOC\nTree swallow nestlings showed elevated levels of contaminants\nDifferential gene expression related to cell growth and lipogenesis in polluted sites\nPAHs, oxychlordane, and PBDEs identified as likely causes of biological responses\n\nMore details"
+  },
+  {
+    "objectID": "about.html#part-ii-contaminant-mixtures-and-gene-expression-in-tree-swallows-of-the-great-lakes",
+    "href": "about.html#part-ii-contaminant-mixtures-and-gene-expression-in-tree-swallows-of-the-great-lakes",
+    "title": "My Research",
+    "section": "Part II: Contaminant Mixtures and Gene Expression in Tree Swallows of the Great Lakes",
+    "text": "Part II: Contaminant Mixtures and Gene Expression in Tree Swallows of the Great Lakes\nNestlings of Tree Swallow were gathered from different locations including Areas of Concern (AOCs), non-AOCs, and two sites located outside the Great Lakes basin.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSite initial assessment\n\n\nDredging\n\n\nRemedy effectiveness estimation at Waukegan harbor\n\n\n\n\nDeveloped system to integrate transcriptomic responses with contaminant concentrations for Tree Swallow nestlings in the Great Lakes.\nModels accurately predict PCB or PAH tissue concentrations to differentiate high vs low sites.\nTranscriptomic responses can predict site contaminant levels and prioritize monitoring for disturbed biological functions.\nSystem can be used for effects-based monitoring, remedy effectiveness estimation, and baseline molecular responses to support management decisions.\n\nMore details"
+  },
+  {
+    "objectID": "about.html#part-iii-comparison-of-predictive-models-for-monitoring-contamination-in-tree-swallow-nestlings-using-non-targeted-global-gene-expression-targeted-gene-panels-and-bioindicators-in-the-great-lakes-region",
+    "href": "about.html#part-iii-comparison-of-predictive-models-for-monitoring-contamination-in-tree-swallow-nestlings-using-non-targeted-global-gene-expression-targeted-gene-panels-and-bioindicators-in-the-great-lakes-region",
+    "title": "My Research",
+    "section": "Part III: “Comparison of Predictive Models for Monitoring Contamination in Tree Swallow Nestlings Using Non-targeted Global Gene Expression, Targeted Gene Panels, and Bioindicators in the Great Lakes Region”",
+    "text": "Part III: “Comparison of Predictive Models for Monitoring Contamination in Tree Swallow Nestlings Using Non-targeted Global Gene Expression, Targeted Gene Panels, and Bioindicators in the Great Lakes Region”\n\nModel performance comparison: Predict PCBs concentrationsModel performance comparison: Predict PAHs concentrations\n\n\n\n\n\n\n\n\nNon-targeted analysis using global gene expressions; b. Targeted Quail 384 gene panels; c. Targeted, combined bird gene array; d. EROD + DNA damage + TBARs bioindicators\n\n\n\n\n\n\n\n\n\nNon-targeted analysis using global gene expressions; b. Targeted Quail 384 gene panels; c. Targeted, combined bird gene array; d. EROD + TBARs + PBSH\n\n\n\n\n\nStudy focused on predicting residues of polychlorinated biphenyls (PCBs) or polycyclic aromatic hydrocarbons (PAHs) in tree swallow nestlings from contaminated and clean sites in the Great Lakes region.\n\nThree different predictive models were compared:\n\nNon-targeted analysis with global gene expression\n\nTargeted analysis with avian gene panels and Bioindicators\n\nModels built with global gene expression had the best performance in predicting PCBs or PAHs concentrations.\nModels built with avian gene arrays and bioindicators also had significant performance\n\nThe study concluded that non-targeted analysis with global gene expression provides the best prediction performance. Targeted analysis with gene arrays or bioindicators can still provide significant performance, supporting their use in environmental assessments when large-scale, in-situ samples are not available. This comparison supported using non-targeted global gene expression for monitoring and prioritizing contaminated sites in the Great Lakes region."
+  }
+]
